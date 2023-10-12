@@ -57,6 +57,14 @@ Training details:
 
 + cfg.py: path configs
 
+## Contributors
+
+[Aochuan Chen](https://scholar.google.com/citations?user=7pY-Ie8AAAAJ&hl=en)
+
+[Yimeng Zhang](https://damon-demon.github.io/)
+
+[Jinghan Jia](https://jinghanjia.netlify.app/)
+
 ## Citation
 
 ```
